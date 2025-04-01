@@ -8,6 +8,8 @@ O objetivo principal do módulo de **Previsibilidade de Estoque** é antecipar a
 - **Evitar faltas ou excessos de produtos** no estoque, otimizando o capital de giro.
 - **Aprimorar a precisão de forecast**, ajustando a taxa de crescimento da demanda com base em dados históricos e tendências de consumo.
 
+  5. ![image](https://github.com/user-attachments/assets/cb0a6798-310d-4d9f-a117-43369cfb55ba)
+
 ## - Abordagem de Cálculo (Soma Aparada + Ajuste de Crescimento)
 
 A metodologia de previsão adotada utiliza:
@@ -31,4 +33,4 @@ A metodologia de previsão adotada utiliza:
 3. **Lakehouse**: Os dados tratados são armazenados no **Lakehouse**, servindo como camada única de armazenamento (Data Lake) e facilitando o consumo por diferentes ferramentas de análise.
 4. **Modelagem e Visualização**: A partir do Lakehouse, as informações são disponibilizadas para relatórios e dashboards, possivelmente via **Power BI** ou outras soluções de visualização dentro do Microsoft Fabric.
 
-5. ![image](https://github.com/user-attachments/assets/cb0a6798-310d-4d9f-a117-43369cfb55ba)
+
